@@ -1,3 +1,13 @@
+# Wägezelle Beispiel
+
+Dieses Projekt ist ein fork um eine Wägezelle auf einem ESP32 zu visualisieren.
+
+Um das Projekt zu bauen muss in das Verzeichnis esp-waegezelle-hs711/examples/get-started/hello_world gegangen werden.
+
+---
+
+Ab hier der originale README:
+
 # Espressif IoT Development Framework
 
 * [中文版](./README_CN.md)
